@@ -1,0 +1,1 @@
+Mandatory project without sandbox
